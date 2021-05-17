@@ -4,3 +4,5 @@
 
 
 [Tinymeng的主页](http://majiameng.com)
+
+[Tinymeng小说](http://book.majiameng.com)
