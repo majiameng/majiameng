@@ -5,4 +5,6 @@
 
 [Tinymeng的主页](http://majiameng.com)
 
-[Tinymeng小说](http://book.majiameng.com)
+[微梦影视](http://tv.bjwmsc.com)
+
+[微梦世创科技公司](http://bjwmsc.com)，合作call我
