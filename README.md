@@ -1,9 +1,17 @@
-### 欢迎来到tinymeng的github
+### Welcome to github in tinymeng 👋
 
+
+#### Seriously programming and being a down-to-earth person; Sit still and think about your own mistakes. Talk quietly regardless of others' mistakes.
 #### 😄 认认真真编程，踏踏实实做人；静坐常思己过，闲谈不论人非。
 
+- 👩‍💻 Software Engineering
+- 🐱 Programmer boy
+- 📝 Use PHP or Java for backend
+- 🌟 Make something to improve my life
+- 💕 Opensource
 
-[Tinymeng的主页](http://majiameng.com)
+
+[Tinymeng Homepage](http://majiameng.com)
 
 [微梦影视](http://tv.bjwmsc.com)
 
