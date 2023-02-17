@@ -19,6 +19,4 @@
 
 [Tinymeng Homepage](http://majiameng.com)
 
-[微梦影视](http://tv.bjwmsc.com)
-
-[微梦世创科技公司](http://bjwmsc.com)，合作call我wechat: itinymeng
+[北京微梦世创科技有限公司](http://bjwmsc.com)，合作call我wechat: itinymeng
