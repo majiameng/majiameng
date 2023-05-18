@@ -20,3 +20,8 @@
 [Tinymeng Homepage](http://majiameng.com)
 
 [北京微梦世创科技有限公司](http://bjwmsc.com)，合作call我wechat: itinymeng
+
+
+### PHP composer 组件
+
+[通用oauth2登录组件](https://github.com/majiameng/OAuth2)
