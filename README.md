@@ -20,6 +20,7 @@
 
 [北京微梦世创科技有限公司](http://bjwmsc.com)，合作call我wechat: itinymeng
 
+---
 
 ### PHP Composer 组件
 
@@ -28,13 +29,11 @@
     <th>类别</th>
     <th>组件</th>  
     <th>描述</th>
-    <th>安装</th> 
 </tr >
 <tr >
     <td rowspan="3">第三方组件</td>
     <td><a href="https://github.com/majiameng/OAuth2">通用Oauth2登录</a></td>
     <td>通用第三方登录，支持Wechat，微信，QQ，抖音，Sina，支付宝，Facebook，Line，Twitter，Google (Pc / Mobile / App login)</td>
-    <td></td>
 </tr>
 <tr>
     <td><a href="https://github.com/majiameng/pay-sdk-php">通用pay支付</a></td>
@@ -45,7 +44,7 @@
     <td>腾讯云 IM 服务端 SDK for PHP</td>
 </tr>
 <tr>
-    <td rowspan="4"></td>
+    <td rowspan="4">其他组件</td>
     <td ><a href="https://github.com/majiameng/worker-socket">Workerman websocket</a></td>
     <td>实现轻松接入ThinkPhp、Laravel、Yii，内有demo</td>
 </tr>
@@ -75,3 +74,19 @@
   <td >yii2框架的redis使用</td>
 </tr>
 </table>
+
+---
+
+### NodeJs 组件
+
+<table>
+<tr>
+    <th>类别</th>
+    <th>组件</th>  
+    <th>描述</th>
+</tr >
+<tr >
+    <td rowspan="1">Vue</td>
+    <td><a href="https://github.com/majiameng/rtc-device-detector-vue2">rtc-device-detector-vue2</a></td>
+    <td> 是腾讯云实时音视频 Web 端设备及网络检测公共组件, 使用 VUE 框架，依托 trtc-js-sdk 以及 rtc-detect 完成公共组件开发。rtc-device-detector-vue2 支持网络检测可选，支持中英文两种语言。</td>
+</tr>
