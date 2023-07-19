@@ -17,6 +17,7 @@
 
 
 [Tinymeng Homepage](http://majiameng.com)
+[Tinymeng SNS page](https://sns.bjwmsc.com/archives/author/1)
 
 [北京微梦世创科技有限公司](http://bjwmsc.com)，合作call我wechat: itinymeng
 
