@@ -67,15 +67,15 @@
 <tr>
     <td rowspan="3">Yii组件</td>
     <td ><a href="https://github.com/majiameng/yii2-solr">Solr</a></td>
-    <td >yii2框架的solr使用</td>
+    <td >yii2框架的solr orm使用</td>
 </tr>
 <tr>
     <td ><a href="https://github.com/majiameng/yii2-elasticsearch">ElasticSearch</a></td>
- <td >yii2框架的elasticsearch使用</td>
+ <td >yii2框架的elasticsearch orm使用</td>
 </tr>
 <tr>
     <td ><a href="https://github.com/majiameng/yii-redis">Redis</a></td>
-  <td >yii2框架的redis使用</td>
+  <td >yii2框架的redis主从、集群使用</td>
 </tr>
 </table>
 
