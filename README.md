@@ -31,7 +31,7 @@
     <th>描述</th>
 </tr >
 <tr >
-    <td rowspan="3">第三方组件</td>
+    <td rowspan="4">第三方组件</td>
     <td><a href="https://github.com/majiameng/OAuth2">通用Oauth2登录</a></td>
     <td>通用第三方登录，支持Wechat，微信，QQ，抖音，Sina，支付宝，Facebook，Line，Twitter，Google (Pc / Mobile / App login)</td>
 </tr>
