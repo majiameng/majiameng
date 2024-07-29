@@ -36,6 +36,10 @@
     <td>通用第三方登录，支持Wechat，微信，QQ，抖音，Sina，支付宝，Facebook，Line，Twitter，Google (Pc / Mobile / App login)</td>
 </tr>
 <tr>
+    <td><a href="https://github.com/yansongda/pay">yansongda/pay</a></td>
+    <td>支付宝、微信、银联 支付开放平台第三方 PHP SDK，基于官方最新版本，支持多商户v2、v3模式</td>
+</tr>
+<tr>
     <td><a href="https://github.com/majiameng/pay-sdk-php">通用pay支付</a></td>
     <td>支付宝、微信、QQ 支付开放平台第三方 PHP SDK，基于官方最新版本，支持公钥和公钥证书2种模式</td>
 </tr>
