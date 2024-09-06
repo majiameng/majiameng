@@ -48,7 +48,7 @@
     <td>腾讯云 IM 服务端 SDK for PHP</td>
 </tr>
 <tr>
-    <td rowspan="5">其他组件</td>
+    <td rowspan="6">其他组件</td>
     <td ><a href="https://github.com/majiameng/worker-socket">Workerman websocket</a></td>
     <td>实现轻松接入ThinkPhp、Laravel、Yii，内有demo</td>
 </tr>
@@ -63,6 +63,10 @@
 <tr>
     <td ><a href="https://github.com/majiameng/code">QRcode</a></td>
  <td >一维码(条形码)、二维码生成</td>
+</tr>
+    <tr>
+    <td ><a href="https://github.com/majiameng/phpMailer">Mailer</a></td>
+ <td >Mail email发送</td>
 </tr>
 <tr>
     <td ><a href="https://github.com/majiameng/tools">Tools</a></td>
