@@ -61,7 +61,7 @@
     <td >实现轻松PHP操作Excel导入导出功能</td>
 </tr>
 <tr>
-    <td ><a href="https://github.com/majiameng/code">QRcode</a></td>
+    <td ><a href="https://github.com/majiameng/QrCode-php">QRcode</a></td>
  <td >一维码(条形码)、二维码生成</td>
 </tr>
     <tr>
