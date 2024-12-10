@@ -73,13 +73,9 @@
  <td >工具组件（其他组件使用的工具集）</td>
 </tr>
 <tr>
-    <td rowspan="3">Yii组件</td>
+    <td rowspan="2">Yii组件</td>
     <td ><a href="https://github.com/majiameng/yii2-solr">Solr</a></td>
     <td >yii2框架的solr orm使用</td>
-</tr>
-<tr>
-    <td ><a href="https://github.com/majiameng/yii2-elasticsearch">ElasticSearch</a></td>
- <td >yii2框架的elasticsearch orm使用</td>
 </tr>
 <tr>
     <td ><a href="https://github.com/majiameng/yii-redis">Redis</a></td>
