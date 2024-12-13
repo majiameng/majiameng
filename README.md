@@ -47,8 +47,18 @@
     <td><a href="https://github.com/majiameng/tencentyun-im-php-sdk">腾讯云 IM</a></td>
     <td>腾讯云 IM 服务端 SDK for PHP</td>
 </tr>
+    
 <tr>
-    <td rowspan="6">其他组件</td>
+    <td rowspan="2">Yii组件</td>
+    <td ><a href="https://github.com/majiameng/yii2-solr">Solr</a></td>
+    <td >yii2框架的solr orm使用</td>
+</tr>
+<tr>
+    <td ><a href="https://github.com/majiameng/yii-redis">Redis</a></td>
+  <td >yii2框架的redis主从、集群使用</td>
+</tr>
+<tr>
+    <td rowspan="7">其他组件</td>
     <td ><a href="https://github.com/majiameng/worker-socket">Workerman websocket</a></td>
     <td>实现轻松接入ThinkPhp、Laravel、Yii，内有demo</td>
 </tr>
@@ -73,13 +83,8 @@
  <td >工具组件（其他组件使用的工具集）</td>
 </tr>
 <tr>
-    <td rowspan="2">Yii组件</td>
-    <td ><a href="https://github.com/majiameng/yii2-solr">Solr</a></td>
-    <td >yii2框架的solr orm使用</td>
-</tr>
-<tr>
-    <td ><a href="https://github.com/majiameng/yii-redis">Redis</a></td>
-  <td >yii2框架的redis主从、集群使用</td>
+    <td ><a href="https://github.com/majiameng/intelligent-parse-php">intelligent-parse</a></td>
+ <td >智能解析（解析地址）</td>
 </tr>
 </table>
 
