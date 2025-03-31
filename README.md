@@ -31,16 +31,16 @@
     <th>描述</th>
 </tr >
 <tr >
-    <td rowspan="4">第三方组件</td>
+    <td rowspan="6">第三方组件</td>
     <td><a href="https://github.com/majiameng/OAuth2">通用Oauth2登录</a></td>
     <td>通用第三方登录，支持Wechat，微信，QQ，抖音，Sina，支付宝，Facebook，Line，Twitter，Google (Pc / Mobile / App login)</td>
 </tr>
 <tr>
-    <td><a href="https://github.com/yansongda/pay">yansongda/pay</a></td>
+    <td><a href="https://github.com/yansongda/pay">聚合支付 yansongda/pay</a></td>
     <td>支付宝、微信、银联 支付开放平台第三方 PHP SDK，基于官方最新版本，支持多商户v2、v3模式</td>
 </tr>
 <tr>
-    <td><a href="https://github.com/majiameng/chinaums-php">tinymeng/chinaums</a></td>
+    <td><a href="https://github.com/majiameng/chinaums-php">银联商务SDK tinymeng/chinaums</a></td>
     <td>银联商务支付 PHP SDK，基于官方最新版本，支持商户入住、微信、支付宝、银联支付等多模式</td>
 </tr>
 <tr>
@@ -52,7 +52,7 @@
     <td>腾讯云 IM 服务端 SDK for PHP</td>
 </tr>
 <tr>
-    <td><a href="https://github.com/majiameng/getui-php">tinymeng/getui</a></td>
+    <td><a href="https://github.com/majiameng/getui-php">个推SDK tinymeng/getui</a></td>
     <td>个推PUSH SDK For PHP的主要目标是提升开发者在服务端集成个推推送服务的开发效率，以及兼容后台向uniapp框架开发的APP推送的使用。</td>
 </tr>
     
