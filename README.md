@@ -32,8 +32,8 @@
 </tr >
 <tr >
     <td rowspan="6">第三方组件</td>
-    <td><a href="https://github.com/majiameng/OAuth2">通用Oauth2登录</a></td>
-    <td>通用第三方登录，支持Wechat，微信，QQ，抖音，Sina，支付宝，Facebook，Line，Twitter，Google (Pc / Mobile / App login)</td>
+    <td><a href="https://github.com/majiameng/OAuth2">通用Oauth2登录 tinymeng/OAuth2</a></td>
+    <td>集成了许多第三方登录界面，包括QQ登录、微信登录、新浪登录、github登录、支付宝登录、百度登录、抖音登录、钉钉、小米、华为、GitLab、Naver、Line、codeing、csdn、gitee、oschina、google、facebook、twitter、line、naver、amazon、apple、yahoo、microsoft等，陆续增加ing(Pc / Mobile / App login)</td>
 </tr>
 <tr>
     <td><a href="https://github.com/yansongda/pay">聚合支付 yansongda/pay</a></td>
